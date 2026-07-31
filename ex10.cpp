@@ -3,7 +3,7 @@
 
 using namespace std;
 
-//Exercicio 10 -- vou usar o numero 5 como exemplo para perceberes como o "for" funciona.
+//Exercicio 10 - Fatorial - vou usar o numero 5 como exemplo para perceberes como o "for" funciona.
 
 int main() {
     
